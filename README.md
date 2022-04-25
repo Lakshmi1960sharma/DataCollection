@@ -1,4 +1,4 @@
 # DataCollection
     ![combinations of kernel radius](C:\\Users\\kommi\\Desktop\\KA\\camprision_scores.PNG "Comparision Scores")
-    *bhgdrdg
+    * bhgdrdg
     1.njj
